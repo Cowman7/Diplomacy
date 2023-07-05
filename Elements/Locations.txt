@@ -1,0 +1,75 @@
+North Atlantic Ocean, water
+Norwegian Sea, water
+Gulf of Bothnia, water
+Baltic Sea, water
+Skaggerak, water
+Helgoland Bight, water
+North Sea, water
+English Channel, water
+Irish Sea, water
+Mid Atlantic Ocean, water
+West Mediterranean, water
+Gulf of Lyon, water
+Tyrrhenian Sea, water
+Adriatic Sea, water
+Ionian Sea, water
+Aegean Sea, water
+East Mediterranean, water
+Black Sea, water
+Barents Sea, water
+St. Petersburg, coast, center
+Finland, coast
+Sweden, coast, center
+Norway, coast, center
+Denmark, coast, center
+Livonia, coast, center
+Moscow, coast, center
+Warsaw, land, center
+Ukraine, land
+Sevestapol, coast, center
+Armenia, land
+Syria, coast
+Smyrna, coast, center
+Ankara, coast, center
+Constantinople, coast, center
+Bulgaria, coast, center
+Romania, coast, center
+Greece, coast, center
+Serbia, land, center
+Albania, coast
+Galicia, land
+Budapest, land, center
+Trieste, coast, center
+Tryolia, land
+Vienna, land, center
+Bohemia, land
+Prussia, coast
+Silesia, land
+Berlin, coast, center
+Munich, land, center
+Kiel, coast, center
+Ruhr, land
+Holland, coast, center
+Belgium, coast, center
+Picardy, coast
+Burgundy, land
+Paris, land, center
+Brest, coast, center
+Gascony, coast
+Marseilles, coast, center
+Spain, coast, center
+Portugal, coast, center
+North Africa, coast
+Tunisia, coast, center
+Piedmont, coast
+Venice, coast, center
+Tuscany, coast
+Apulia, coast
+Rome, coast, center
+Naples, coast, center
+Clyde, coast
+Edinburg, coast, center
+York, coast
+Liverpool, coast, center
+Wales, coast
+London, coast, center

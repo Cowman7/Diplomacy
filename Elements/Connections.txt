@@ -1,0 +1,74 @@
+North Atlantic Ocean, Norwegian Sea, Clyde, Liverpool, Irish Sea, Mid Atlantic Ocean
+Norwegian Sea, Norway, Barents Sea, North Atlantic Ocean, Clyde, Edinburg
+Gulf of Bothnia, Sweden, Finland, St. Petersburg, Livonia, Baltic Sea
+Baltic Sea, Gulf of Bothnia, Livonia, Prussia, Berlin, Kiel, Sweden, Helgoland Bight
+Skaggerak, Norway, Sweden, Helgoland Bight, North Sea, Denmark
+Helgoland Bight, Denmark, Kiel, Holland, North Sea, Baltic Sea, Sweden
+North Sea, Edinburg, York, London, English Channel, Belgium, Holland, Helgoland Bight, Denmark, Skaggerak, Norway, Norwegian Sea
+English Channel, Irish Sea, Wales, London, Belgium, Picardy, Brest, Mid Atlantic Ocean, North Sea
+Irish Sea, Liverpool, Wales, English Channel, North Atlantic Ocean, Mid Atlantic Ocean
+Mid Atlantic Ocean, North Atlantic Ocean, Irish Sea, English Channel, Brest, Gascony, Spain, Portugal, North Africa, West Mediterranean
+West Mediterranean, Mid Atlantic Ocean, Gulf of Lyon, Tyrrhenian Sea, Tunisia, North Africa, Spain
+Gulf of Lyon, West Mediterranean, Spain, Marseilles, Piedmont, Tuscany, Tyrrhenian Sea
+Tyrrhenian Sea, Gulf of Lyon, West Mediterranean, Tuscany, Rome, Naples, Tunisia, Ionian Sea
+Adriatic Sea, Trieste, Venice, Apulia, Albania, Ionian Sea
+Ionian Sea, Apulia, Naples, Tyrrhenian Sea, Tunisia, Albania, Greece Aegean Sea, East Mediterranean
+Aegean Sea, Greece, Bulgaria, Constantinople, Black Sea, Smyrna, East Mediterranean, Ionian Sea
+East Mediterranean, Ionian Sea, Aegean Sea, Smyrna, Syria
+Black Sea, Sevestapol, Romania, Bulgaria, Constantinople, Aegean Sea, Ankara, Armenia
+Barents Sea, Norwegian Sea, Norway, St. Petersburg
+St. Petersburg, Barents Sea, Finland, Norway, Moscow, Livonia, Gulf of Bothnia
+Finland, St. Petersburg, Norway, Sweden, Gulf of Bothnia
+Sweden, Gulf of Bothnia, Norway, Finland, Baltic Sea, Denmark, Skaggerak, Helgoland Bight
+Norway, Norwegian Sea, North Sea, Skaggerak, Sweden, Finland, St. Petersburg, Helgoland Bight
+Denmark, Skaggerak, North Sea, Helgoland Bight
+Livonia, St. Petersburg, Gulf of Bothnia Baltic Sea, Prussia, Warsaw, Moscow
+Moscow, St. Petersburg, Livonia, Warsaw, Ukraine, Sevestapol
+Warsaw, Prussia, Silesia, Galicia, Ukraine, Moscow
+Ukraine, Moscow, Warsaw, Sevestapol, Romania, Galicia
+Sevestapol, Black Sea, Armenia, Ukraine, Romania, Moscow
+Armenia, Sevestapol, Black Sea, Ankara, Syria, Smyrna
+Syria, Armenia, East Mediterranean, Smyrna
+Smyrna, East Mediterranean, Aegean Sea, Constantinople, Ankara, Syria, Armenia
+Ankara, Black Sea, Armenia, Constantinople, Smyrna
+Constantinople, Bulgaria, Black Sea, Ankara, Smyrna, Aegean Sea
+Bulgaria, Black Sea, Constantinople, Aegean Sea, Greece, Serbia, Romania
+Romania, Sevestapol, Ukraine, Galicia, Budapest, Serbia, Black Sea, Serbia, Bulgaria
+Greece, Aegean Sea, Ionian Sea, Albania, Serbia, Bulgaria
+Serbia, Albania, Greece, Bulgaria, Romania, Trieste, Budapest
+Albania, Serbia, Adriatic Sea, Greece, Ionian Sea
+Galicia, Warsaw, Ukraine, Romania, Budapest, Vienna, Bohemia, Silesia
+Budapest, Galicia, Romania, Serbia, Trieste, Vienna
+Trieste, Adriatic Sea, Serbia, Venice, Tryolia, Vienna
+Tryolia, Venice, Munich, Piedmont, Bohemia, Vienna, Trieste
+Vienna, Bohemia, Galicia, Budapest, Trieste, Tryolia
+Bohemia, Vienna, Silesia, Munich, Tryolia, Galicia
+Prussia, Baltic Sea, Warsaw, Livonia, Berlin, Silesia
+Silesia, Bohemia, Galicia, Warsaw, Prussia, Berlin, Munich
+Berlin, Baltic Sea, Kiel, Prussia, Silesia, Munich
+Munich, Silesia, Berlin, Kiel, Ruhr, Bohemia, Tryolia
+Kiel, Helgoland Bight, Berlin, Ruhr, Holland, Munich
+Ruhr, Holland, Belgium, Munich, Burgundy
+Holland, Helgoland Bight, North Sea, Belgium, Kiel, Ruhr
+Belgium, Holland, English Channel, Picardy, Burgundy, Ruhr
+Picardy, Paris, Brest, English Channel, Burgundy, Belgium
+Burgundy, Marseilles, Gascony, Paris, Belgium, Ruhr, Munich
+Paris, Brest, Picardy, Gascony, Burgundy
+Brest, Mid Atlantic Ocean, English Channel, Gascony, Paris, Picardy
+Gascony, Spain, Paris, Brest, Mid Atlantic Ocean, Burgundy, Marseilles
+Marseilles, Piedmont, Gulf of Lyon, Gascony, Burgundy, Spain
+Spain, Portugal, West Mediterranean, Gascony, Marseilles, Gulf of Lyon, Mid Atlantic Ocean
+Portugal, Spain, Mid Atlantic Ocean
+North Africa, Mid Atlantic Ocean, West Mediterranean, Tunisia
+Tunisia, North Africa, West Mediterranean, Tyrrhenian Sea, Ionian Sea
+Piedmont, Marseilles, Gulf of Lyon, Venice, Tuscany
+Venice, Tryolia, Trieste, Tuscany, Piedmont, Apulia, Adriatic Sea
+Tuscany, Piedmont, Venice, Gulf of Lyon, Tyrrhenian Sea, Rome
+Apulia, Adriatic Sea, Ionian Sea, Venice, Rome, Naples
+Rome, Tuscany, Venice, Apulia, Naples, Tyrrhenian Sea
+Clyde, North Atlantic Ocean, Norwegian Sea, Edinburg, Liverpool
+Edinburg, Norwegian Sea, North Sea, Clyde, York, Liverpool
+York, Edinburg, Liverpool, London, Wales, North Sea
+Liverpool, Clyde, Edinburg, York, Wales, Irish Sea, North Atlantic Ocean
+Wales, Liverpool, York, London, Irish Sea, English Channel
+London, Wales, York, English Channel, North Sea
